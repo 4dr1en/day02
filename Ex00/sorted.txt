@@ -1,9 +1,8 @@
-.
-./node_modules
-./pages
-./public
-./next.config.js
-./package.json
-./package-lock.json
-./SortedList
-./sorted.txt
+next.config.js
+node_modules
+package.json
+package-lock.json
+pages
+public
+SortedList
+sorted.txt
