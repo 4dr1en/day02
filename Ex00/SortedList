@@ -1,1 +1,2 @@
-ls | wc -l && ls -p | grep -v / > sorted.txt
+find . -type d | wc -l && find . -type f | wc -l && find . -type d | sort | tee sorted.txt && find . -type f | sort | tee -a sorted.txt
+
