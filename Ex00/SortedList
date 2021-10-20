@@ -1,0 +1,1 @@
+ls | wc -l && ls -p | grep -v / > sorted.txt

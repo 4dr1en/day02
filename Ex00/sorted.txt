@@ -1,0 +1,5 @@
+next.config.js
+package.json
+package-lock.json
+SortedList
+sorted.txt
